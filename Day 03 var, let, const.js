@@ -2,7 +2,7 @@ console.log("Lecture 3 about var , let , const")
 // three types of variable lets discuss
 // var is globally scoped and can be redeclared and change 
 var a =4;
-var a="harry";// redeclared but no issue
+var a="harry";// redeclared but no issue 
 a= undefined; 
 {
   var a="usama"
