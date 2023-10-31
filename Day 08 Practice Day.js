@@ -55,3 +55,9 @@ else
   console.log("not divisible")
 }
 
+// Problem No 5
+// ternary operator
+let age5 = 19
+let a = age5 > 18 ? "You can drive" : "You cannot drive"
+console.log(a)
+
