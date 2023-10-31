@@ -30,3 +30,14 @@ switch (age2) {
   default:
     console.log("Your age is not special")
 }
+
+// Problem No 3
+// Check no is divisible y by 2 and 3
+let num = prompt("What is your no?")
+num = Number.parseInt(num)
+if (num % 2 == 0 && num % 3 == 0) {
+  console.log("Your number is divisible by 2 and 3")
+}
+else {
+  console.log("Your number is not divisible by 2 and 3")
+}
