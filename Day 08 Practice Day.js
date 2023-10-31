@@ -41,3 +41,17 @@ if (num % 2 == 0 && num % 3 == 0) {
 else {
   console.log("Your number is not divisible by 2 and 3")
 }
+
+// Problem No 4
+// Check no is divisible y by 2 or 3
+let no = prompt("enter number")
+no = Number.parseInt(no)
+if(no % 2 ==0 || no % 3 ==0)
+{
+  console.log("yes its divisible")
+}
+else
+{
+  console.log("not divisible")
+}
+
