@@ -57,4 +57,10 @@ const obj = {
     {
       console.log("keys in obj2 are "+z)
     }
-  
+  // 2
+  // now i find the index using for in 
+  const dumb2 = [12,57,87,45,'a','h','j']
+  for(let d in dumb2)
+    {
+      console.log("Index of ata present in array is "+d)
+    }
