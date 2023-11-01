@@ -41,3 +41,20 @@ const obj = {
   //   {
   //     console.log("values in obj are "+z)
   //   }
+
+  // for in loop
+  // this loop is used to find the keys of object not values 
+  // this loop used to iterate over the enumerable object
+  // lets take the example
+  // a,b,c are keys here and 1,2,3 are values 
+  // 1
+  const obj2 = {
+    a:1,
+    b:2,
+    c:3,
+  }
+  for(let z in obj2)
+    {
+      console.log("keys in obj2 are "+z)
+    }
+  
