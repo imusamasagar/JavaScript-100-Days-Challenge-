@@ -1,4 +1,7 @@
-// Lecture 10 while loops
+// Lecture 10
+
+/* What is a while loop?
+Here, the while loop refers to a control flow statement that basically lets the execution of a code on the basis of any given Boolean condition. Therefore, we can think of a while loop as a type of a repeating it statement.*/
 
 // while loop
 let n = prompt("Enter the value of n")
