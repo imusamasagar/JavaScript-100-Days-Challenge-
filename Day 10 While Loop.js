@@ -13,6 +13,10 @@ while(i<n){
   console.log(i)
   i++;
 }
+
+/*What is a do-while loop?
+The do-while loop is very similar to that of the while loop. But the only difference is that this loop checks for the conditions available after we check a statement. Thus, it is an example of a type of Exit Control Loop.*/
+
 // do while loop
 // this loop body should execute one tome minimum either the condition is true or not bcz in do while loop the condition is placed after the body statements
 
