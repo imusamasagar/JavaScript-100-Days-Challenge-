@@ -19,3 +19,18 @@ function sum(a,b)
   return a+b;
 }
 console.log(sum(54,14));
+
+// arrow function 
+// this is the latest way to write the function and also the recommended way
+sub = (a,b) =>
+{
+  console.log("sum of numbers are")
+  return a+b;
+}
+console.log(sum(54,14));
+
+imp = (a,b,c,d,e,f) =>
+  {
+    return Math.round((a + b)*(c * d) - (e / f))
+  }
+console.log(imp(10,5,14,29,87,56))
