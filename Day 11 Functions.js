@@ -12,3 +12,10 @@
 /*
 Math.round ye use karte he value ko round of karne k liye java script me
 */
+
+function sum(a,b)
+{
+  console.log("sum of numbers are")
+  return a+b;
+}
+console.log(sum(54,14));
