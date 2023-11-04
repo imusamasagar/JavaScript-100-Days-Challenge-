@@ -16,4 +16,16 @@ let marks = {
       // marks[Object.keys(marks)[i]] it can print the marks of students that are the values of the object
       console.log("Marks of"+ Object.keys(marks)[i]+ "="+ marks[Object.keys(marks)[i]])
     }
+
+  // Question no 2
+  // do question no  using for in loop
+  let marks2 = {
+    usama: 40,
+    Ali: 50,
+    Ahmad: 60,
+  }
+  for(let b in marks2)
+    {
+       console.log("Marks of"+ b + "="+ marks2[b])
+    }
   
