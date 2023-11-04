@@ -28,4 +28,15 @@ let marks = {
     {
        console.log("Marks of"+ b + "="+ marks2[b])
     }
-  
+
+// Question no 3
+// Print try again until user enter the correct number
+
+let correctnumber;
+while(correctnumber != 96)
+  {
+    console.log("try again")
+    correctnumber = prompt("Enter the correct number")
+    
+  }
+console.log("Yes this is correct number")
