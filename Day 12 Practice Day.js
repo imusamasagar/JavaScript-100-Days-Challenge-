@@ -40,3 +40,12 @@ while(correctnumber != 96)
     
   }
 console.log("Yes this is correct number")
+
+// Question no 4
+// create function to find mean of any 4 numbers
+
+mean = (a,b,c,d) =>
+  {
+    return (a+b+c+d)/4
+  }
+console.log("Mean of inout numbers are "+ mean(10,57,56,98))
