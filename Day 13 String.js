@@ -46,3 +46,13 @@ let name7 = 'usa\'ma'
 console.log(name7)
 let name7i = "usa\"ma"
 console.log(name7i)
+
+// some other are here 
+// \n new line \t space tab \r carriage return
+// single quote 
+let name8 = 'usa\nma'
+console.log(name8)
+let name9 = 'usa\tma'
+console.log(name7)
+let name10 = 'usa\rma'
+console.log(name7)
