@@ -19,3 +19,9 @@ console.log(name2)
 // backtick use hota he syntax me iss k 
 let name3 = `hello "ahmad" 'here'`
 console.log(name3)
+
+// string interpolation 
+// ye hota he k backtick k andar dollar sign curly bracket k andar variable ko call kar lena 
+// i want to print all above two names declared as a friend
+let name4 =  `${name1} ${name2} are friend of each other`
+console.log(name4)
