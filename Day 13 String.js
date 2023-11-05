@@ -34,3 +34,15 @@ console.log(name4)
 // let name5 = 'usa'ma'
 // console.log(name5)
 // if you want to put double quote between a double quote string the compiler confuses from where it starts or end 
+
+// error occur
+
+// let name6 = "usa"ma"
+// console.log(name6)
+
+// so some characters provide us these fumction like 
+// \' it will only insert ' between string backspace is not print and also not count in length of string they are combined called a single character same for double quoute
+let name7 = 'usa\'ma'
+console.log(name7)
+let name7i = "usa\"ma"
+console.log(name7i)
