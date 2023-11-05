@@ -56,3 +56,10 @@ let name9 = 'usa\tma'
 console.log(name7)
 let name10 = 'usa\rma'
 console.log(name7)
+// double quote
+let name11 = "usa\nma"
+console.log(name11)
+let name12 = "usa\tma"
+console.log(name12)
+let name13 = "usa\rma"
+console.log(name13)
