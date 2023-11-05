@@ -25,3 +25,12 @@ console.log(name3)
 // i want to print all above two names declared as a friend
 let name4 =  `${name1} ${name2} are friend of each other`
 console.log(name4)
+
+// escape sequence characters 
+// if you want to put single quote between a single quote string the compiler confuses from where it starts or end 
+
+// error occur
+
+// let name5 = 'usa'ma'
+// console.log(name5)
+// if you want to put double quote between a double quote string the compiler confuses from where it starts or end 
