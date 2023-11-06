@@ -27,3 +27,12 @@ console.log(name.replace("Sagar", "Ghafoor"))
 // it will add the strings 
 let friend = "ali"
 console.log(name.concat(" is a friend of ", friend, " Ok"))
+
+// string will aslo add using + operator
+console.log(name + friend)
+let fr = "alu" + "mattar" + "salan"
+
+// it will remove all the spaces in strings
+let friend2 = "      ahmad        "
+console.log(friend2)
+console.log(friend2.trim())
