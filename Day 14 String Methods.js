@@ -36,3 +36,9 @@ let fr = "alu" + "mattar" + "salan"
 let friend2 = "      ahmad        "
 console.log(friend2)
 console.log(friend2.trim())
+
+// to show the letters by giving or access through its index
+console.log(fr[0])
+console.log(fr[1])
+console.log(fr[2])
+console.log(fr[3])
