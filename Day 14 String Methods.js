@@ -42,3 +42,12 @@ console.log(fr[0])
 console.log(fr[1])
 console.log(fr[2])
 console.log(fr[3])
+
+// find the position of substring
+let v = "usama here sir usama"
+console.log(v.indexOf("here"))
+// if a word present multiple times
+const firstOccurance = v.indexOf("usama")
+const secondOccurance = v.indexOf("usama" , firstOccurance + 1)
+console.log(firstOccurance);
+console.log(secondOccurance);
