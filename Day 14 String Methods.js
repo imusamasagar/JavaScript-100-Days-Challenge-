@@ -51,3 +51,12 @@ const firstOccurance = v.indexOf("usama")
 const secondOccurance = v.indexOf("usama" , firstOccurance + 1)
 console.log(firstOccurance);
 console.log(secondOccurance);
+
+// the last important thing is it doesn't means that these methods change the string the orignal string never chnage or edit it will just ovewrwrite by calling with an method but if print the string without any method it will print the orignal string
+
+// using for loop to print the string
+let m = "usama"
+for (let i=0; i<m.length; i++)
+  {
+    console.log(m[i])
+  }
