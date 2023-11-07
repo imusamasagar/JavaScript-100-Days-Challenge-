@@ -43,3 +43,7 @@ let amount2 = Number.parseInt(str2.slice(15))
 console.log(amount2)
 console.log(typeof amount2)
 
+// Question 5
+let friend = "usama"
+friend[3] = "h"
+console.log(friend) // friend is not changed, because string is immutable
