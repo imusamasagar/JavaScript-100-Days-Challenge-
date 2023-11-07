@@ -18,3 +18,7 @@ console.log(sentence.includes(word2))
 // so like more complexity
 console.log(`The word "${word1}" ${sentence.includes(word1) ? 'is' : 'is not'} in the sentence`);
 
+// startswith
+// true if string start with your given condition and false otherwise
+console.log(sentence.startsWith("The"))
+console.log(sentence.startsWith("Theer"))
