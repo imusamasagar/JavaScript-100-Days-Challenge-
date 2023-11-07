@@ -33,3 +33,13 @@ console.log(sentence.endsWith("cat"))
 console.log(sentence.toLowerCase())
 console.log(sentence.toUpperCase())
 
+// Question 4
+let str2 = "Please give Rs 1000"
+let amount1 = Number.parseInt(str2.slice("Please give Rs ".length))
+console.log(amount1)
+console.log(typeof amount1)
+// also written like that 
+let amount2 = Number.parseInt(str2.slice(15))
+console.log(amount2)
+console.log(typeof amount2)
+
