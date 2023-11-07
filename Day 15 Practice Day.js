@@ -22,3 +22,8 @@ console.log(`The word "${word1}" ${sentence.includes(word1) ? 'is' : 'is not'} i
 // true if string start with your given condition and false otherwise
 console.log(sentence.startsWith("The"))
 console.log(sentence.startsWith("Theer"))
+
+// rndswith
+// true if string ends with your given condition and false otherwise
+console.log(sentence.endsWith("dog"))
+console.log(sentence.endsWith("cat"))
