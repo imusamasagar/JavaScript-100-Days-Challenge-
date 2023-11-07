@@ -27,3 +27,9 @@ console.log(sentence.startsWith("Theer"))
 // true if string ends with your given condition and false otherwise
 console.log(sentence.endsWith("dog"))
 console.log(sentence.endsWith("cat"))
+
+// Question 3
+// covert string to lower letters
+console.log(sentence.toLowerCase())
+console.log(sentence.toUpperCase())
+
