@@ -18,3 +18,6 @@ console.log(marks[6]) // Will be undefined because index 6 does not exist
 
 // .length to find the length of array 
 console.log("The length of marks is", marks.length)
+
+// adding the array
+marks[6] = 89 // Adding a new value to the array
