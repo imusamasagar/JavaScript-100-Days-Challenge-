@@ -28,3 +28,11 @@ console.log(marks)
 
 // the type of array is OBJECT
 console.log(typeof marks)
+
+// Practice 
+// for loop to print the array
+let array = ["usama",1,8,56,'w',null]
+for(let a =0; a<array.length; a++)
+  {
+    console.log(array[a])
+  }
