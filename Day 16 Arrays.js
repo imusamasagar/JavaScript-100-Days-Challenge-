@@ -15,3 +15,6 @@ console.log(marks[3])
 console.log(marks[4])
 console.log(marks[5])
 console.log(marks[6]) // Will be undefined because index 6 does not exist
+
+// .length to find the length of array 
+console.log("The length of marks is", marks.length)
