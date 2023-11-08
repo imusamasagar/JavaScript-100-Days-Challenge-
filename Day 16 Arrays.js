@@ -25,3 +25,6 @@ marks[6] = 89 // Adding a new value to the array
 // change the array
 marks[1] = 96 // Changing the value of an array
 console.log(marks)
+
+// the type of array is OBJECT
+console.log(typeof marks)
