@@ -44,3 +44,9 @@ console.log(r3, num)
 // unshift work like the push 
 num.unshift();
 console.log(num);
+
+// in this r return the new length of the array after adding the element 
+let r4 = num.unshift(78)
+console.log(r4, num)
+
+/* important array is changeable editable unlike the string */
