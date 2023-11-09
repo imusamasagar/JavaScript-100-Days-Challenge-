@@ -12,3 +12,8 @@ console.log(b, typeof b)
 // here " and " this will be present between all the values
 let c = num.join(" and ")
 console.log(c, typeof c)
+
+// it will remove the last element of an array 
+// unlike string the orignal array will change also
+num.pop()
+console.log(num);
