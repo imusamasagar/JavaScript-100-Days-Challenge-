@@ -40,3 +40,7 @@ let r3 = num.shift()
 
 // Removes an element from the start of the array
 console.log(r3, num) 
+
+// unshift work like the push 
+num.unshift();
+console.log(num);
