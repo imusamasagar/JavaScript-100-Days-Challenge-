@@ -37,3 +37,6 @@ num.shift();
 
 // in this r store the pop element which is removed fro the array
 let r3 = num.shift()
+
+// Removes an element from the start of the array
+console.log(r3, num) 
