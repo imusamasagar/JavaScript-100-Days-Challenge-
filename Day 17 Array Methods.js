@@ -17,3 +17,12 @@ console.log(c, typeof c)
 // unlike string the orignal array will change also
 num.pop()
 console.log(num);
+
+// in this r store the element which is pop fro the array
+// pop returns the popped element
+let r1 = num.pop()
+console.log(num, r1)
+
+// push method use to add the element in the array
+num.push(98);
+console.log(num);
