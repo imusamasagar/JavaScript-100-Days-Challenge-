@@ -32,3 +32,8 @@ console.log(num);
 let r2 = num.push(56) 
 console.log(num, r2)
 
+// shift is like the pop method but here the element remove fro the start of the array
+num.shift();
+
+// in this r store the pop element which is removed fro the array
+let r3 = num.shift()
