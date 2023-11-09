@@ -26,3 +26,9 @@ console.log(num, r1)
 // push method use to add the element in the array
 num.push(98);
 console.log(num);
+
+// in this r contains the new length of the array after push an new element 
+// push returns the new array length
+let r2 = num.push(56) 
+console.log(num, r2)
+
