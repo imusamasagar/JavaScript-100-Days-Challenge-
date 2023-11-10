@@ -18,3 +18,5 @@ console.log(num1.length)
 let newArray = num1.concat(num2, num3)
 console.log(newArray)
 
+// no change in orignal array
+console.log(num1, num2)
