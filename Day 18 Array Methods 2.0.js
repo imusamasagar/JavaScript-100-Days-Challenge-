@@ -20,3 +20,8 @@ console.log(newArray)
 
 // no change in orignal array
 console.log(num1, num2)
+
+// sort method
+// it will sort the array alphabet not place like the small no at first it will sort like that no who starts with 1 is at first then 2,3,4 and so on
+num3.sort()
+console.log(num3)
