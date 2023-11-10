@@ -13,3 +13,8 @@ console.log(num3.length)
 delete num1[0]
 console.log(num1.length)
 
+// to add the arrays concat method
+// it will not modify the orignal arrauy it will make the new array who stores the collection of more arrays
+let newArray = num1.concat(num2, num3)
+console.log(newArray)
+
