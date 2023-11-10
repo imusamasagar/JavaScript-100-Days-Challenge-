@@ -59,3 +59,10 @@ let deletedValues = num5.splice(2, 4, 1021, 1022, 1023, 1024, 1025)
 console.log(num5)
 console.log(deletedValues)
 
+// slice
+// it means start from index 3 and print the array till the end of it
+let Num6 = num4.slice(3)
+console.log(Num6)
+// it will show the array from index 3 to 4 bcz the ending point 5 in not included 
+let Num7 = num4.slice(3, 5)
+console.log(Num7)
