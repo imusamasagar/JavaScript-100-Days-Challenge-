@@ -8,3 +8,8 @@ console.log(num1.length)
 console.log(num2.length)
 console.log(num3.length)
 
+// to delete an item from the array
+// delete the value which is present at 0 index
+delete num1[0]
+console.log(num1.length)
+
