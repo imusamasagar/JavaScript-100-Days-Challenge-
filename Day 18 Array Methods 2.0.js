@@ -35,3 +35,15 @@ function compare1(a,b){
     return b-a 
   }
 
+// arrow function
+let compare2 = (a, b)=>{
+    return a - b
+  }
+  let num4 = [551, 22, 3, 14, 5, 6, 7, 8, 229]
+  num4.sort(compare1)
+  num4.sort(compare2)
+  
+  // reverse method
+  num4.reverse()
+  console.log(num4)
+
