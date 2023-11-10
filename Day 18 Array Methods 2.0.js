@@ -47,3 +47,15 @@ let compare2 = (a, b)=>{
   num4.reverse()
   console.log(num4)
 
+// Splice and Slice
+
+// splice
+// syntax of spice
+// [index where you start - no of elements you want to delete - add new elemnt - add new element]
+let num5 = [551, 22, 3, 14, 5, 6, 7, 8, 229]
+// it will also not change the orignal array instead of that it will store the result of the splice in the new array
+// here the deleted values store the elemnts that were delete from the orignal array bcz this method will return that
+let deletedValues = num5.splice(2, 4, 1021, 1022, 1023, 1024, 1025)
+console.log(num5)
+console.log(deletedValues)
+
