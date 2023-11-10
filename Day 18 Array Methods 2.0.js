@@ -25,3 +25,13 @@ console.log(num1, num2)
 // it will sort the array alphabet not place like the small no at first it will sort like that no who starts with 1 is at first then 2,3,4 and so on
 num3.sort()
 console.log(num3)
+
+// comapre function
+
+// simple function 
+// to sort the array ascending or descending 
+function compare1(a,b){
+    // b-a for descending and a-b for ascending 
+    return b-a 
+  }
+
