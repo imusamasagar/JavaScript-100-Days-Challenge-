@@ -19,3 +19,6 @@ num.forEach((element) => {
 // dom manipulation
 let name = "Usama2544"
 let no = "2154612"
+// we make array from name usama
+let arr1 = Array.from(name)
+let arr2 = Array.from(no)
