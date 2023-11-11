@@ -26,3 +26,10 @@ let arr2 = Array.from(no)
 // arr will be the array that formed 
 console.log(arr1)
 console.log(arr2)
+
+// for...of 
+// we knoe the for of is used for access the values 
+for (let item of num){
+  console.log(item)
+}
+
