@@ -8,6 +8,7 @@ for(let i=0; i<num.length;i++){
 
 // ForEach Loop
 // here we make a arrow function element which can ultiply the item with its self and print it  
+
 // for each means run for each elemnt of the array 
 // help in react based projects
 num.forEach((element) => {
@@ -16,6 +17,7 @@ num.forEach((element) => {
 
 // Array.from 
 // html collection dom we want to covert it into array bcz i cant rum for each loop so this will make array for me to collect the items
+
 // dom manipulation
 let name = "Usama2544"
 let no = "2154612"
