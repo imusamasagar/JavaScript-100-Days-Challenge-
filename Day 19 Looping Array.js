@@ -22,3 +22,7 @@ let no = "2154612"
 // we make array from name usama
 let arr1 = Array.from(name)
 let arr2 = Array.from(no)
+
+// arr will be the array that formed 
+console.log(arr1)
+console.log(arr2)
