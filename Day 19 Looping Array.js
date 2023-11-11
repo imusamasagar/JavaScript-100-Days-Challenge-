@@ -33,3 +33,8 @@ for (let item of num){
   console.log(item)
 }
 
+// for...in
+// we know that it will used to access the keys in arrays keys means the index 
+for (let i in num){
+  console.log(num[i])
+}
