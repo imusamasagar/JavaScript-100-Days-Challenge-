@@ -13,3 +13,6 @@ for(let i=0; i<num.length;i++){
 num.forEach((element) => {
   console.log(element * element)
 })
+
+// Array.from 
+// html collection dom we want to covert it into array bcz i cant rum for each loop so this will make array for me to collect the items
