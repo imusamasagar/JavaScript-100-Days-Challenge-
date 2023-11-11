@@ -16,3 +16,6 @@ num.forEach((element) => {
 
 // Array.from 
 // html collection dom we want to covert it into array bcz i cant rum for each loop so this will make array for me to collect the items
+// dom manipulation
+let name = "Usama2544"
+let no = "2154612"
