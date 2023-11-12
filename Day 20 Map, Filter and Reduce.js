@@ -30,3 +30,12 @@ let  m = a.map((value,index,array)=>{
 // new arrays
 console.log(b,m)
 
+// filter
+// iss ka mtlb he k array me aisa function lagana k j uss ko pass kare ga bas wohi new array me ae ga jo k filter ka basic mtlb bhi he 
+let i =  [21,8,45,98,30,1001,121,54]
+let na = i.filter((value)=>{
+  return value >50
+})
+// new array
+console.log(na)
+
