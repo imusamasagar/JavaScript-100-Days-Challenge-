@@ -1,4 +1,4 @@
-// Lecture 20 map , filter , reduce
+// Day 20 map , filter , reduce
 // higher order array methods
 // less time consuming 
 // useful modern JavaScript 
@@ -53,3 +53,7 @@ console.log(ali2)
 
 // orignal arrays
 // as you can see these arrays not affected by the functions or methods 
+console.log(l)
+console.log(a)
+console.log(i)
+console.log(ali)
