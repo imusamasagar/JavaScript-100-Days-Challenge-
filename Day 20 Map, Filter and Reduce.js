@@ -43,3 +43,11 @@ console.log(na)
 // reduce the array in to single value
 // hum reduce ko function dete he beshak uss k age de de ya alag se function bana kar reduce ko de de 
 // ab ye kiya kare ga jitne arguments diye he array ki utni values ko pakre ga or function perform karwa de ga jaise yaha array ki 3 values ko le ga unn ko add sub kar de ga phir array ki agli values le ga tab tak reduce karta jae ga jab tak single values nhi reh jati
+let ali = [54,87,689,3547]
+let ali2 = ali.reduce((j,k,l)=>{
+  return j+k-l
+})
+// new array
+console.log(ali2)
+
+
