@@ -39,3 +39,7 @@ let na = i.filter((value)=>{
 // new array
 console.log(na)
 
+// reduce
+// reduce the array in to single value
+// hum reduce ko function dete he beshak uss k age de de ya alag se function bana kar reduce ko de de 
+// ab ye kiya kare ga jitne arguments diye he array ki utni values ko pakre ga or function perform karwa de ga jaise yaha array ki 3 values ko le ga unn ko add sub kar de ga phir array ki agli values le ga tab tak reduce karta jae ga jab tak single values nhi reh jati
