@@ -14,3 +14,8 @@ l.map((value)=>{
   console.log(value)
 })
 
+// as i declare eralier it will make a new array 
+let b = l
+// new array formed 
+console.log(b)
+
