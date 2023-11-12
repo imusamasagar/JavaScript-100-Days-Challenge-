@@ -51,3 +51,5 @@ let ali2 = ali.reduce((j,k,l)=>{
 console.log(ali2)
 
 
+// orignal arrays
+// as you can see these arrays not affected by the functions or methods 
