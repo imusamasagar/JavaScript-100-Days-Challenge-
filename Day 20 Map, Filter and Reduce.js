@@ -27,3 +27,6 @@ let  m = a.map((value,index,array)=>{
   return value+1
 })
 
+// new arrays
+console.log(b,m)
+
