@@ -19,3 +19,11 @@ let b = l
 // new array formed 
 console.log(b)
 
+// passing three arguents [value index array]
+let a = [54,89,1025]
+let  m = a.map((value,index,array)=>{
+  console.log(value,index,array)
+  // the new array will be effected by this return
+  return value+1
+})
+
