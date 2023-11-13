@@ -52,4 +52,8 @@ for(let i=1; i<=f; )
     f--
   }
   console.log(arr5)
-  
+
+  let facarr = arr5.reduce((a,b)=>{
+    return a*b
+  })
+  console.log(facarr)
