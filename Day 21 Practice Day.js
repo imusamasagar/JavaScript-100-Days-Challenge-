@@ -23,3 +23,12 @@ do
   while(c!=0);
 console.log("0 is entered loop terminated")
 console.log(arr2)
+
+// Question no 3
+// filter the array of numbers divisible of 10
+let arr3 = [70,100,12,54,36,87,5]
+let farr = arr3.filter((value)=>{
+  return value%10==0
+})
+console.log(farr)
+
