@@ -38,3 +38,6 @@ let arr4 = [1,54,7,25,6]
 let sqarr = (value) =>{
   return value*value
 }
+let ar=arr4.map(sqarr)
+console.log(ar)
+
