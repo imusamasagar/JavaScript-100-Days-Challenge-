@@ -41,3 +41,13 @@ let sqarr = (value) =>{
 let ar=arr4.map(sqarr)
 console.log(ar)
 
+// Question no 5
+// factorial of no
+let arr5 = []
+let f = prompt("Number")
+f = Number.parseInt(f)
+for(let i=1; i<=f; )
+  {
+    arr5.push(f)
+    f--
+  }
