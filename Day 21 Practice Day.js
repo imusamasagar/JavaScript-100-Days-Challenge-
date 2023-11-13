@@ -21,3 +21,5 @@ do
     // c++
   }
   while(c!=0);
+console.log("0 is entered loop terminated")
+console.log(arr2)
