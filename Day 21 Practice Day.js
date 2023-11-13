@@ -32,3 +32,9 @@ let farr = arr3.filter((value)=>{
 })
 console.log(farr)
 
+// Question no 4
+// square of array numbers 
+let arr4 = [1,54,7,25,6]
+let sqarr = (value) =>{
+  return value*value
+}
