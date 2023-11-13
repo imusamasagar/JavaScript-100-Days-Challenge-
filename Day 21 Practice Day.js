@@ -51,3 +51,5 @@ for(let i=1; i<=f; )
     arr5.push(f)
     f--
   }
+  console.log(arr5)
+  
