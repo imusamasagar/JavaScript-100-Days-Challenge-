@@ -21,3 +21,8 @@ if (userno > randomno)
 {
   console.log("enter number is greater then random number")
 }
+
+  }
+// while(userno == randomno);
+  console.log("Congrats you guess the nuber correctly")
+  console.log("Random No is "+randomno)
