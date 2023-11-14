@@ -1,4 +1,4 @@
-// Lecture 22 
+// Day 22 
 // test 
 // guess number
 console.log("Generating the Random Number")
@@ -26,3 +26,17 @@ if (userno > randomno)
 // while(userno == randomno);
   console.log("Congrats you guess the nuber correctly")
   console.log("Random No is "+randomno)
+
+// if(userno == randomno)
+// {
+  // console.log("Congrats you guess the nuber correctly")
+  // console.log("Random No is "+randomno)
+// }
+// else if (userno < randomno)
+// {
+//   console.log("enter number is less then random number")
+// }
+// else if (userno > randomno)
+// {
+//   console.log("enter number is greater then random number")
+// }
