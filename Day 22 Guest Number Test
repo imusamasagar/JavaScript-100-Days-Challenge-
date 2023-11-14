@@ -6,3 +6,18 @@ let randomno = Math.floor(Math.random() * 101);
 // console.log("Guess the Number")
 // let userno = prompt("Enter the number between 0-100")
 // userno = parseInt(userno)
+let userno;
+while(userno != randomno)
+// do
+  {
+    console.log("Guess the Number")
+let userno = prompt("Enter the number between 0-100")
+userno = parseInt(userno)
+    if (userno < randomno)
+{
+  console.log("enter number is less then random number")
+}
+if (userno > randomno)
+{
+  console.log("enter number is greater then random number")
+}
