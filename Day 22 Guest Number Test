@@ -43,3 +43,5 @@ if (userno > randomno)
 
 // Method Used
 document.getElementById(“given_id”) Method: The document.getElementById() method is used to fetch an element from the HTML page having the id as provided (specified) by the user. The “.value” is used to access the value of the HTML element accessed. 
+JavaScript Math.random() Method: The random() method is used to generate a random number between 0 (inclusive) and 1 (exclusive). This generated number is then multiplied by 10 and added 1 to generate numbers from 1 to 10.
+
