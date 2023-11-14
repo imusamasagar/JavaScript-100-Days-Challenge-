@@ -40,3 +40,6 @@ if (userno > randomno)
 // {
 //   console.log("enter number is greater then random number")
 // }
+
+// Method Used
+document.getElementById(“given_id”) Method: The document.getElementById() method is used to fetch an element from the HTML page having the id as provided (specified) by the user. The “.value” is used to access the value of the HTML element accessed. 
