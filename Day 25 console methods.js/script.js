@@ -12,3 +12,17 @@ console.error("dont touch")
 // warn warning show karta he 
 console.warn("i warn you")
 // time or timeend hum kisi bhi cheez ko kitna time lagta he wo bata deta he proccess likhn se pehle time laga lo or end par time end jaise k time or timend k arguments ka naam same hona chahiye 
+// for example
+console.time("timetaken")
+for(let a = 1; a<5; a++)
+  {
+    console.log(a)
+  }
+console.timeEnd("timetaken");
+
+// table it can generate the values and theit index in table form
+let arr = [546,54,87,8,8,45,36]
+console.table(arr)
+
+// clear iss se sara console clear ho jata he 
+// console.clear()
