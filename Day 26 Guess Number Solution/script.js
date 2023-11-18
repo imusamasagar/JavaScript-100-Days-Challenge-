@@ -18,4 +18,4 @@ while (inp != a) {
       else {
         console.log("Enter number between 1 to 100")
       }
-      
+}
