@@ -15,4 +15,7 @@ while (inp != a) {
       else if (inp < a && inp > 0) {
         console.log("your number is smaller than the actual number.")
       }
+      else {
+        console.log("Enter number between 1 to 100")
+      }
       
