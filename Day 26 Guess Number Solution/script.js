@@ -9,3 +9,7 @@ while (inp != a) {
       console.log("Congradulation! You guess the correct number.")
       console.log(`You guess the actual number in ${100 - score} chances.`)
     }
+    else if (inp > a && inp < 100) {
+        console.log("your number is greater than the actual number.")
+      }
+      
