@@ -12,4 +12,7 @@ while (inp != a) {
     else if (inp > a && inp < 100) {
         console.log("your number is greater than the actual number.")
       }
+      else if (inp < a && inp > 0) {
+        console.log("your number is smaller than the actual number.")
+      }
       
