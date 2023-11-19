@@ -11,3 +11,12 @@ alert("You entered a of type " + (typeof a))
 // confirm use hota he jaise k agar kuch delete kar rahe ho tab confirmation lene k liye 
 let write = confirm("Do you want to write it to the page")
 // yaha if kaam kar raha he k agar confirm ko yes karo ge to if chale ga warna else
+if (write) {
+    // document.write jo cheez do ge wo page par write kar de ga
+    document.write(a)
+  }
+  else {
+    document.write("Please allow me to write")
+  }
+  
+  // ye teeno purane he ye ziada recommended nhi hote use karne k liye 
