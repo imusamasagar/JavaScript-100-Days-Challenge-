@@ -9,3 +9,7 @@ window.console.log(window)
 // ye css ko manipulate karne k liye bhi use hoti he lekijn tab jab ap chahte he k user k koi action se ap k page ki look me koi change a jae 
 // sara content as a html  
 console.log(document)
+// page body as js object
+console.log(document.body)
+// css manipulation
+document.body.style.background = "yellow"
