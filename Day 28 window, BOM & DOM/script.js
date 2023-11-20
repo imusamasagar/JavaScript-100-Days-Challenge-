@@ -13,3 +13,6 @@ console.log(document)
 console.log(document.body)
 // css manipulation
 document.body.style.background = "yellow"
+// BOM
+// Browser Object Model
+// additional objects provided by browsers "host environment (not always" for working with everything except the document
