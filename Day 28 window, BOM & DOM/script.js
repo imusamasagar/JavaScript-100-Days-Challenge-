@@ -16,3 +16,6 @@ document.body.style.background = "yellow"
 // BOM
 // Browser Object Model
 // additional objects provided by browsers "host environment (not always" for working with everything except the document
+// direct the user to other site
+// alert prompt confirm are part of it 
+location.href = "https://google.com"
