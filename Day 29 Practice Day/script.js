@@ -43,3 +43,26 @@
 // }
 //   while(again)
 
+// Question no 3
+// negative age enter show error
+// alert("Age required to tell you about driving so kindly cooperate")
+// let again;
+// do
+// {let age = prompt("Enter your Age")
+// age = Number.parseInt(age)
+// if(age>=18)
+// {
+//   alert("You can drive")
+// }
+//   else if(age<0)
+//   {
+//     console.error("Enter valid age")
+//   }
+// else
+// {
+//   alert("You can't drive")
+// }
+//  again=confirm("You want to play again")
+// }
+//   while(again)
+
