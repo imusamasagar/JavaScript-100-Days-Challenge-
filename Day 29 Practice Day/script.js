@@ -28,3 +28,18 @@
 // confirm from user if he wants to play again
 // alert("Age required to tell you about driving so kindly cooperate")
 // let again;
+// do
+// {let age = prompt("Enter your Age")
+// age = Number.parseInt(age)
+// if(age<18)
+// {
+//   alert("You can't drive")
+// }
+// else
+// {
+//   alert("You can drive")
+// }
+//  again=confirm("You want to play again")
+// }
+//   while(again)
+
