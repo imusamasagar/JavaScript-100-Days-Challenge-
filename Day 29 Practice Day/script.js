@@ -11,3 +11,16 @@
 //   alert("You can drive")
 // }
 
+//Question no 1 with function  
+// const candrive = (age)=>{
+//   return age>=18?true:false
+// }
+// if (candrive(age))
+// {
+//   alert("Yes drive")
+// }
+// else
+// {
+//   alert("Not drive")
+// }
+
