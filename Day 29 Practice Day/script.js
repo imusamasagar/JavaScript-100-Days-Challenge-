@@ -24,3 +24,7 @@
 //   alert("Not drive")
 // }
 
+// Question no 2
+// confirm from user if he wants to play again
+// alert("Age required to tell you about driving so kindly cooperate")
+// let again;
