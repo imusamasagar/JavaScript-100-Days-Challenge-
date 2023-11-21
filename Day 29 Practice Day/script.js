@@ -66,3 +66,16 @@
 // }
 //   while(again)
 
+// Question no 4 
+// redirect to Google if no greater then 4
+// let num = prompt("Enter the number")
+// num = Number.parseInt(num)
+// if(num>4)
+// {
+//   location.href = "https://google.com"
+// }
+
+// Question no 5
+// take a color from user for background 
+let color = prompt("Enter the color you want in background")
+document.body.style.background = color
