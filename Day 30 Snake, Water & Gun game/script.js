@@ -22,3 +22,11 @@ else if(ui=='W'&&ci=='S')
 {
   alert("User Loss")
 }
+else if(ui=='W'&&ci=='G')
+{
+  alert("User Win")
+}
+else if(ui=='G'&&ci=='S')
+{
+  alert("User Win")
+}
