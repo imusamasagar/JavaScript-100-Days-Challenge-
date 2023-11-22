@@ -34,3 +34,6 @@ else if(ui=='G'&&ci=='W')
 {
   alert("User Loss")
 }
+again=confirm("Want to play again")
+}
+while(again)
