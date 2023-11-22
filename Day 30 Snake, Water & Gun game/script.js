@@ -30,3 +30,7 @@ else if(ui=='G'&&ci=='S')
 {
   alert("User Win")
 }
+else if(ui=='G'&&ci=='W')
+{
+  alert("User Loss")
+}
