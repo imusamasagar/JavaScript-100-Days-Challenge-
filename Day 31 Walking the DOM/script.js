@@ -28,3 +28,5 @@
 // ap typeof kar k inn sab ki type bhi dekh sakte ho title wale ki string batae ga 
 // baki object batae ga etc 
 
+// *** document.body null ho sakti he agar ap JavaScript tag ko body k pehle use kar lo ge 
+// iss liye script baad me likho take accesss kar sake wo ap k html page ko
