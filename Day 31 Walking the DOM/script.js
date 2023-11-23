@@ -20,3 +20,8 @@
 // head k andar title hota he meta  
 // body uss k andar elements content
 
+// documnet.documentElement karne se html tag ae ga 
+// document.body kar k body tag atta he
+// document.head karne se head ae ga 
+// lekin document.title karne se title change kar sakte he lekin sirf apne browser par
+
