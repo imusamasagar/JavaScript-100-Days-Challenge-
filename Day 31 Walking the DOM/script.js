@@ -25,3 +25,6 @@
 // document.head karne se head ae ga 
 // lekin document.title karne se title change kar sakte he lekin sirf apne browser par
 
+// ap typeof kar k inn sab ki type bhi dekh sakte ho title wale ki string batae ga 
+// baki object batae ga etc 
+
