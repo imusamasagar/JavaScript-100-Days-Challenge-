@@ -15,3 +15,8 @@
 // ye hoti he k for example ap ne html likhte hue ending tag sahi nhi lagaya ya lagana bhool ge to ap ka browser khud autocorrect kar de ga 
 // jaise k table tag k andar tbody tag lazmi hota he na ho to browser khud laga de ga 
 
+// Walking the DOM
+// html page 
+// head k andar title hota he meta  
+// body uss k andar elements content
+
