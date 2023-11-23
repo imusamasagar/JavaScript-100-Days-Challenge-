@@ -7,3 +7,7 @@
 // 3- Comment Node
 // comments jo hote he html me <!--></--!>
 
+// in HTML page
+// html tag is root 
+// head and body are children
+
