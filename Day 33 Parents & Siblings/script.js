@@ -22,3 +22,10 @@
 // for parent it is present as
 // parentNode
 
+console.log(document.body.firstChild)
+a=document.body.firstChild
+console.log(a.parentNode)
+console.log(a.parentElement)
+// parentNode me bas ye node ho ga kuch return kare ga kuch na kuch return zaroor kare ga 
+// parentElement tab hi kuch return kare ga jab wo koi valid element ho ga like head ho ga ya body ho ga
+
