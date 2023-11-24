@@ -15,3 +15,10 @@
 // body is said to be NEXT and RIGHT sibling of head 
 // head is said to be PREVIOUS and LEFT sibling of body
 
+// next sibling is the 
+// nextSibling propery
+// previous sibling is the 
+// previousSibling property 
+// for parent it is present as
+// parentNode
+
