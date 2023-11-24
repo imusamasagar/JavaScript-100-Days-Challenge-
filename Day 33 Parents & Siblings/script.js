@@ -9,3 +9,9 @@
 // siblings wo hote he jo children ho same parent k mtln aik parent ki child nodes aik dusre ki sibing hote he 
 // for example 
 
+// html --> parent
+// head and body ----> child of html
+// head and body are  -----> sibling 
+// body is said to be NEXT and RIGHT sibling of head 
+// head is said to be PREVIOUS and LEFT sibling of body
+
