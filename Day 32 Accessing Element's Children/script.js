@@ -23,3 +23,12 @@ console.log(document.body.lastChild)
 // all child nodes
 console.log(document.body.childNodes)
 
+// similar writing way
+// elem.childNodes[0] === elem.firstChild
+// elem.childNodes[elem.childNodes.length-1] === elem.lastChild
+
+// one more method
+// check if child nodes present or not
+// elem.hasChildNodes
+// it will return true if child nodes present if not it will return false 
+
