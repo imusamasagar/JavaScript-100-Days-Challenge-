@@ -32,3 +32,8 @@ console.log(document.body.childNodes)
 // elem.hasChildNodes
 // it will return true if child nodes present if not it will return false 
 
+// Note
+// aise lagta he k jaise nodes array ki form me he kiun k wo show aise hoti he k index sath naam lekin wo array k form me nhi hoti
+// agar ap chahte he k child nodes array ki form me ae ap unn par array wale methods alaga sake to ap method use karb sakte he 
+Array.from(document.body.childNodes)
+console.log(document.body.childNodes)
