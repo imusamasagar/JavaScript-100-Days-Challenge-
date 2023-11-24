@@ -15,3 +15,11 @@
 
 // access the children 
 
+// first child 
+// masla ye he k ye text return kare ga jis ki reason ye he k ye space ko bhi accept karta he div or body k between jo space he ye uss ko first child kahe ga 
+console.log(document.body.firstChild)
+// last child
+console.log(document.body.lastChild)
+// all child nodes
+console.log(document.body.childNodes)
+
