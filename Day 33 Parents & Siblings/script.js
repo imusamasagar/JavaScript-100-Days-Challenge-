@@ -5,3 +5,7 @@
 // $1 bhi hota he wo previous selected element hota he
 // they are iterable using for --- of loop 
 
+// Parent wo hota he jis ki koi sub nodes ho uss k andar jaise k 
+// siblings wo hote he jo children ho same parent k mtln aik parent ki child nodes aik dusre ki sibing hote he 
+// for example 
+
