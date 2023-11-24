@@ -8,3 +8,10 @@
 // descendent nodes
 // nodes k nodes k nodes ye sab descendent nodes hote he 
 
+// html k page par dekhe 
+// div direct child he body ka 
+// p or span child he div k or apas me siblings he 
+// div p span ye sab descendent nodes he body ki 
+
+// access the children 
+
