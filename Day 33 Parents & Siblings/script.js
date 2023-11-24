@@ -29,3 +29,9 @@ console.log(a.parentElement)
 // parentNode me bas ye node ho ga kuch return kare ga kuch na kuch return zaroor kare ga 
 // parentElement tab hi kuch return kare ga jab wo koi valid element ho ga like head ho ga ya body ho ga
 
+// for example 
+alert(document.documentElement.parentNode) // document 
+alert(document.documentElement.parentElement) // null 
+// ye null iss liye he bcz documentElement ka mtlb html uss ka parentElement koi nhi iss liye null he lekin node me document return kare ga
+
+console.log(a.firstChild.nextSibling)
