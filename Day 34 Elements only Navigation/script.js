@@ -2,3 +2,8 @@
 // agar hum ko dirsct element chahiye to kiya kare 
 // Element word use kare 
 
+const changeBgRed = () => {
+    document.body.firstElementChild.style.background = "red"
+  }
+
+  
