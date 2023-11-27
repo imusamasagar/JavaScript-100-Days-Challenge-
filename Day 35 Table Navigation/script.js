@@ -12,3 +12,10 @@ console.log(table.tBodies) // collection of <tbody> elements
 
 console.log(tr.cells) // collection of td and th
 console.log(tr.sectionRowIndex) // index of tr inside closing element 
+console.log(tr.rowIndex) // row number starting from 0
+console.log(td.cellIndex) // no of cells inside closing <tr>
+
+// Query
+console.log(typeof document)
+console.log(typeof window)
+// answer wilb be the "object"
