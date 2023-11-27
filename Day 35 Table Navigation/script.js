@@ -7,3 +7,8 @@ console.log(table.caption) // reference to <caption>
 console.log(table.thead) // referenceto <thead> 
 console.log(table.tfoot) // reference to <tfoot>
 console.log(table.tBodies) // collection of <tbody> elements
+// console.log(table.tbody.rows) // collection of <tr> inside throw error bcz there in only one tbody till yet
+// console.log(table.tbody.firstElementChild) // reference to first child of <tbody>
+
+console.log(tr.cells) // collection of td and th
+console.log(tr.sectionRowIndex) // index of tr inside closing element 
