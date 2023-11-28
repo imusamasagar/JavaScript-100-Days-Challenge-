@@ -9,3 +9,10 @@ console.log(id1.matches(".c1"))
 // this will return false bcz id1 element does not matches the class c1
 console.log(id1.matches(".class"))
 
+// closest
+// elem.closest(css)
+// to look for the nearest ancestor that matches the given css selector the element itself also checked
+console.log(sp2.closest(".id2"))
+console.log(sp2.closest(".c2"))
+console.log(sp2.closest("#sp2"))
+
