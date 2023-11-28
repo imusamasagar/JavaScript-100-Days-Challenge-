@@ -6,3 +6,6 @@ let sp2 = document.getElementById("sp2")
 // elem.matches(css) to check if the element matches the given css selector
 // this will return true bcz id1 element matches the class c1
 console.log(id1.matches(".c1"))
+// this will return false bcz id1 element does not matches the class c1
+console.log(id1.matches(".class"))
+
