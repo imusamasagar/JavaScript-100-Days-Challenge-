@@ -9,3 +9,5 @@
 
 // throw id 
 // id de de ge uss ko lekin aik baat yaad rakhe k aik id aik ko hi de sakte he 
+let t1 = document.getElementById("tt")
+t1.style.color = "red"
