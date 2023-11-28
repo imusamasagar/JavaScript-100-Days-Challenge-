@@ -16,3 +16,11 @@ console.log(sp2.closest(".id2"))
 console.log(sp2.closest(".c2"))
 console.log(sp2.closest("#sp2"))
 
+// contains
+// elem1.contains(elem2)
+// return true if elem2 is inside elem1 or 
+// when elem1==elem2ab iss me parameters dekhe hue inverted qommas nhi lagane 
+console.log(id2.contains(sp2))
+console.log(sp2.contains(sp2))
+console.log(id2.contains(id2))
+console.log(id1.contains(id2))
