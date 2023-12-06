@@ -21,3 +21,7 @@ Array.from(document.getElementsByTagName("li")).forEach((element) =>{
   element.style.background = "cyan"
 })
 
+// Question no 5
+// which function tell us the farthest ancestor 
+// a- matches b-closest c-contains d-none of these
+// the answer is d bcz no one tell the farthest ancestor 
